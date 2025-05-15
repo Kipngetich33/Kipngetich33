@@ -18,7 +18,7 @@
   </div>
 </div>
 
-## Co-Founder Senior, Software Engineer & Community Lead
+## Co-Founder, Senior Software Engineer & Community Lead
 I am a Senior Software Engineer with 7 years hands on experience building web based solutions using Ruby, Python, JavaScript and Reach. I am also passionate about the developer community and mentoring junior engineers and currently working with African Ruby Community as a Lead / Organizer for the Nairobi Chapter.
 
 ## Top Languages & Technologies
